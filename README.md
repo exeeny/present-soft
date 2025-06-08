@@ -5,4 +5,8 @@ Web-application that helps you create/edit own presentation view/join others and
 ---
 
 
----
+https://github.com/user-attachments/assets/16f17498-c3ae-4cc9-8d00-5422a407e6b0
+
+
+
+
